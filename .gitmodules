@@ -1,0 +1,3 @@
+[submodule "src/twitch-embedded"]
+	path = src/twitch-embedded
+	url = https://github.com/JeHwanYoo/twitch-embedded
