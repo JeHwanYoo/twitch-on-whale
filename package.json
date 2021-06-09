@@ -1,12 +1,17 @@
 {
   "name": "twitch-on-whale",
   "version": "0.1.0",
-  "description": "",
+  "description": "네이버 사이드바에서 트위치를 재생합니다.",
   "scripts": {
     "dev": "nodemon src/dev-server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "naver",
+    "whale",
+    "sidebar",
+    "extension"
+  ],
+  "author": "JeHwan Yoo",
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1",
