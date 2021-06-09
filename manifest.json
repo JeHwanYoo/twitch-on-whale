@@ -3,7 +3,10 @@
   "name": "트위치온웨일",
   "version": "0.1.0",
   "description": "웨일 브라우저 사이드바에서 트위치를 재생합니다.",
-  "icons": {},
+  "icons": {
+    "16": "src/assets/favicon-16x16.png",
+    "32": "src/assets/favicon-32x32.png"
+  },
   "sidebar_action": {
     "default_page": "src/sidebar.html",
     "default_icon": {
