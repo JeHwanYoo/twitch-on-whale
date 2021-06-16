@@ -3,9 +3,7 @@ const path = require('path')
 const app = express()
 const port = process.env.PORT || 3000
 
-app.get('/', (req, res) => {
-  res.sendFile(path.resolve('src', 'twitch-embedded', 'index.html'))
-})
+app.use(express.static(path.resolve(__dirname, 'twitch-embedded')))
 
 app.listen(port, () => {
   console.log(`app listening on http://localhost:${port}`)
