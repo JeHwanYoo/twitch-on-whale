@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "네이버 사이드바에서 트위치를 재생합니다.",
   "scripts": {
-    "dev": "nodemon src/dev-server.js"
+    "dev": "nodemon --delay 500ms src/dev-server.js"
   },
   "keywords": [
     "naver",
