@@ -8,6 +8,17 @@
 
 ## CHANGELOG
 
+<img src="https://i.ibb.co/6PfJnsZ/darkmode.png" alt="darkmode" border="0">
+
+version 1.1.0
+
+- 여러분의 눈을 지켜줄 다크 모드 출시!
+- 모바일 view 지원!
+
+version 1.0.1
+
+- 리다이렉트 문제 긴급 패치
+
 version 1.0.0
 
 - 여러분의 구독 정보를 불러옵니다!
