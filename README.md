@@ -4,7 +4,9 @@
 
 채팅 기능도 지원합니다~
 
-<img src="https://i.ibb.co/wd9PP4X/image.png" alt="image" border="0">
+<a href="https://ibb.co/wsZZTJj"><img src="https://i.ibb.co/4dwwcs3/2021-08-27-7-16-44.png" alt="2021-08-27-7-16-44" border="0"></a>
+<a href="https://ibb.co/4g21TKQ"><img src="https://i.ibb.co/JFq37mh/2021-08-27-7-19-15.png" alt="2021-08-27-7-19-15" border="0"></a>
+<a href="https://ibb.co/3vJvR0y"><img src="https://i.ibb.co/gdnd4DM/2021-08-27-7-20-15.png" alt="2021-08-27-7-20-15" border="0"></a>
 
 ## CHANGELOG
 
@@ -13,8 +15,6 @@ version 1.2.0
 - 다시보기 기능 지원!
 - 내부적으로 성능 최적화
 - 일부 디자인 수정
-
-<img src="https://i.ibb.co/6PfJnsZ/darkmode.png" alt="darkmode" border="0">
 
 version 1.1.0
 
