@@ -8,6 +8,12 @@
 
 ## CHANGELOG
 
+version 1.2.0
+
+- 다시보기 기능 지원!
+- 내부적으로 성능 최적화
+- 일부 디자인 수정
+
 <img src="https://i.ibb.co/6PfJnsZ/darkmode.png" alt="darkmode" border="0">
 
 version 1.1.0
